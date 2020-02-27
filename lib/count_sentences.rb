@@ -5,6 +5,8 @@ class String
   def sentence?
     if self.String.end_with?(".")
       true
+    else
+      return false
     end
   end
 
