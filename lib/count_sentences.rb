@@ -18,6 +18,6 @@ class String
 
     self.split(",")
     self.split("?")
-    self.count()
+    self.count.String
   end
 end
